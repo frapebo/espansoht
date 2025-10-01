@@ -30,7 +30,7 @@ matches:
 
       Thanks for your support! 🚀⚽'
 
-        - trigger: "::tracker"
+  - trigger: "::tracker"
     replace: >
       'Hola XXXXXXXX,
 
