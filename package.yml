@@ -1,47 +1,47 @@
 matches:
-  - trigger: ":ht"
+  - trigger: "::ht"
     replace: >
-      'Hola,
+        Hola,
+        
+        Estamos contactando a los equipos con jugadores Nica para conocer sus planes de entreno y ver si hay huecos. Si nos responden por este medio o en el foro podremos acelerar las cosas.
+        
+        Por favor, indícanos
+      	  •	Entrenamiento actual
+      	  •	Semanas que durará
+      	  •	Próximo entreno y duración
+      	  •	Si tienen hueco y buscan algo en concreto
+        
+        Esto nos ayudará a armar un listado de granjas y [b]puede servirte también para formar tu equipo y proyecto[/b].
+        
+        ¡Gracias por el apoyo! 🚀⚽
 
-      Estamos contactando a los equipos con jugadores Nica para conocer sus planes de entreno y ver si hay huecos. Si nos responden por este medio o en el foro podremos acelerar las cosas.
-
-      Por favor, indícanos
-      	•	Entrenamiento actual
-      	•	Semanas que durará
-      	•	Próximo entreno y duración
-      	•	Si tienen hueco y buscan algo en concreto
-
-      Esto nos ayudará a armar un listado de granjas y [b]puede servirte también para formar tu equipo y proyecto[/b].
-
-      ¡Gracias por el apoyo! 🚀⚽'
-
-  - trigger: ":ht"
+  - trigger: ";;ht"
     replace: >
-      'Hi XXXXXXX,
-      We are reaching out to teams with Nica players to learn about their training plans and see if there are any available slots. If you reply via email or in the forum, we can speed things up.
+        Hi XXXXXXX,
+        We are reaching out to teams with Nica players to learn about their training plans and see if there are any available slots. If you reply via email or in the forum, we can speed things up.
+          
+        Please let us know:
+          • Current training
+          • How many weeks it will last
+          • Next training and its duration
+          • If you have space available and what you are looking for
 
-      Please let us know:
-      • Current training
-      • How many weeks it will last
-      • Next training and its duration
-      • If you have space available and what you are looking for
+        This will help us build a list of farms and can also [b]support you in forming your team and project[/b].
 
-      This will help us build a list of farms and can also [b]support you in forming your team and project[/b].
+        Thanks for your support! 🚀⚽
 
-      Thanks for your support! 🚀⚽'
-
-  - trigger: "::tracker"
+  - trigger: "::tr"
     replace: >
-      'Hola XXXXXXXX,
+        Hola XXXXXXXX,
+        
+        Para facilitar el seguimiento de tu jugador Nica de cara a la selección nacional, por favor regístrate aquí [link=https://hattrickportal.online/User.aspx?UserID=XXXXXXXX] y selecciona “Sí” en la sección In the tracker
+        
+        ¡Gracias!
 
-      Para facilitar el seguimiento de tu jugador Nica de cara a la selección nacional, por favor regístrate aquí [link=https://hattrickportal.online/User.aspx?UserID=XXXXXXXX] y selecciona “Sí” en la sección In the tracker.
-
-      ¡Gracias!'
-
-  - trigger: "::tracker"
+  - trigger: ";;tr"
     replace: >
-      'Hi XXXXXXXX,
+        Hi XXXXXXXX,
 
-      To facilitate the follow-up of your Nica player for the national team, please register here [link=https://hattrickportal.online/User.aspx?UserID=XXXXXXXX] and select “Yes” in the In the tracker section.
+        To facilitate the follow-up of your Nica player for the national team, please register here [link=https://hattrickportal.online/User.aspx?UserID=XXXXXXXX] and select “Yes” in the In the tracker section.
 
-      Thanks!'
+        Thanks!
