@@ -13,7 +13,9 @@ matches:
       [br]
       Esto nos ayudará a armar un listado de granjas y [b]puede servirte también para formar tu equipo y proyecto[/b].[br]
       [br]
-      ¡Gracias por el apoyo! 🚀⚽
+      ¡Gracias por el apoyo! 🚀⚽[br][br]
+      the player:[br]
+      [link=https://hattrickportal.online/Player.aspx?playerID=xxxxxxxx]
 
   - trigger: ";;ht"
     replace: >
@@ -28,7 +30,9 @@ matches:
       [br]
       This will help us build a list of farms and can also [b]support you in forming your team and project[/b].[br]
       [br]
-      Thanks for your support! 🚀⚽
+      Thanks for your support! 🚀⚽[br][br]
+      the player:[br]
+      [link=https://hattrickportal.online/Player.aspx?playerID=xxxxxxxx]
 
   - trigger: "::tr"
     replace: >
